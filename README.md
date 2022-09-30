@@ -6,6 +6,10 @@ A simple, lightweight, open-source C++ game engine
 
 It currently has full rendering, text, input, sound, and collision systems set up, although it is still in active development, so things may be changed, added, or removed.
 
+**THIS IS AN EXPERIMENTAL BRANCH. PROCEED WITH CAUTION.**
+
+This branch features some WIP GUI tools & utiliies.
+
 ## Installing
 
 To use the Feather Engine, just clone this git repo (it acts as a template). Make sure you remove this README file. From there, just start editing *game.cpp* and *PROJECT.h*. Have Fun, and if you make something cool, send it to **kadamlita@proton.me** to have it featured here.
