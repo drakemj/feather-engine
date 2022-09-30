@@ -20,7 +20,7 @@ This project uses SDL2/OpenGL for access to input and graphics hardware. SDL is 
 
 Building this project is still a bit tough, as I am still experimenting with buildsystems. I hope to be able to get something worked out soon. If you find something that works well with the engine, feel free to either open an issue or open a PR implementing it yourself. 
 
-The GUI uses something called "nuklear" (if you have a better suggestion, open an issue or email me
+The GUI uses something called "dear imgui" (if you have a better suggestion, open an issue or email me
 
 ## Developers
 
